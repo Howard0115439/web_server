@@ -1,0 +1,9 @@
+//web programming M6
+
+1.use visual studio code
+2.type this command in terminal : npm install
+3.type this command in terminal : npm run dev
+4.use postman and type : localhost/mailboxes
+//-------------------------------------------------
+5.add put function to change the contacts information(1.)open postman and click "body"->"raw"->"JSON" and input the "_id", "name", "email"
+6.type URL : get localhost/contacts, you can change the contacts information

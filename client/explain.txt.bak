@@ -1,0 +1,9 @@
+//web programming M7
+
+1.use visual studio code
+2.type this command in client folder terminal : npm install
+3.type this command in client folder terminal : npm run build
+4.type this command in server folder terminal at the same time : npm run dev
+5.type this URL in chrome : http://localhost
+//-----------------------------------------------------------------------------
+6.add function : convert plain text to html(ex. <button>test</button>)
